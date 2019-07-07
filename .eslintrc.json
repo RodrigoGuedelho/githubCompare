@@ -1,0 +1,15 @@
+/*{
+  "env": {
+    "browser": true,
+    "jest": true,
+    "es6": true
+  },
+  "extends": ["react-app", "airbnb"],
+  "plugins": ["import", "jsx-ally", "react"],
+  "rules": {
+    "react/jsx-filename-extension": ["error", { "extensions": [".js", ".jsx"] }]
+  },
+  "import/prefer-deafaut-export": "off",
+  "react/jsx-one-expression-per-line": "off"
+}
+*/
